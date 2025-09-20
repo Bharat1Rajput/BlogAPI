@@ -44,7 +44,6 @@ logs/
 *.log
 
 # Docker files (don't copy Docker files into the image)
-Dockerfile*
 docker-compose*.yml
 .dockerignore
 
