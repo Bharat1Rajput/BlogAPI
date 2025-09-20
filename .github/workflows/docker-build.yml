@@ -26,3 +26,4 @@ jobs:
           file: ${{ github.workspace }}/Dockerfile
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/my-blog-app:latest
+     
